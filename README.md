@@ -1,3 +1,5 @@
+This is a rosified fork of [c++ implementation by Subokita](https://github.com/subokita/OpenSeqSLAM).
+
 This is a C++ + OpenCV port of Niko Sünderhauf's OpenSeqSLAM, whose original code can be found here:
 http://www.tu-chemnitz.de/etit/proaut/mitarbeiter/niko.html
 
